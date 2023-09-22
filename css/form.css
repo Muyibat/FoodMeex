@@ -1,0 +1,66 @@
+.body{
+    font-family: 'Montserrat', sans-serif;;
+    background-color: #440033;
+    color: #FFFFFF;
+    text-align: center;
+}
+.navbar{
+    margin-bottom: 150px;
+}
+.navbar-brand{
+    font-weight: 700;
+}
+.nav-link{
+    font-weight: 400;
+}
+.detail-box{
+    width: 50%;
+    padding: 10px 15px;
+    margin-bottom: 30px;
+}
+.heading{
+    text-align: left;
+    padding: 20px 15px;
+    font-weight: 700;
+}
+.form-details{
+    background-color:#E6E6FA;
+    padding:50px 0 50px 0;
+}
+#login-details{
+    padding: 3% 15% 7%;
+}
+.social-icon{
+    margin: 20px 10px;
+ }
+#footer{
+    text-align: center; 
+    background-color:  #FFFFFF;
+    color: #440033;
+   }
+.btn {
+    background: #440033;
+    background-image: -webkit-linear-gradient(top, #440033, #2980b9);
+    background-image: -moz-linear-gradient(top, #440033, #2980b9);
+    background-image: -ms-linear-gradient(top, #440033, #2980b9);
+    background-image: -o-linear-gradient(top, #440033, #2980b9);
+    background-image: linear-gradient(to bottom, #440033, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
